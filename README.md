@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CodingWithCupid/CodingWithCupid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m Sherlyn!
 - 👀 I’m interested in Full-Stack SWE
 - 🌱 I’m currently learning Full Stack Web Development (HTML, CSS, JS, Node, React, MongoDB and Python on my own. I am also enrolled in the Generation-USA Bootcamp where I am learning Bootstrap, SCRUM, Git and GitHub, and the Command Line.
